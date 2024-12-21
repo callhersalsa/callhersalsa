@@ -1,7 +1,6 @@
-# Hi, peeps! 👋 💫
+## Hi, peeps! 👋 💫
 
-## 💫 About Me:
-I'm Salsabila Syahirah, a university junior (3rd-year) majoring in Information Systems.<br><br>🔭 I'm a freelancer.<br>📈 I’m currently doing a project on an image classifier for my AWS AI & ML Scholarship program.<br>🌱 I’m currently learning data science and machine learning.<br>💬 I cook, code, and create (crochet, writing, illustration, etc)<br>⚡ Fun fact => Psst ... I don't like rice!
+My name is Salsabila Syahirah, and I am a university junior (3rd-year) majoring in information systems.<br><br>🔭 I'm a full-time freelancer (at least for now).<br>📈 I’m currently doing a project on an image classifier for my AWS AI & ML Scholarship program.<br>🌱 I’m currently learning data science and machine learning.<br>💬 I cook, code, and create (crochet, writing, illustration, etc)<br>⚡ Fun fact => Psst ... I don't like rice!
 
 
 ## 🌐 Socials:
