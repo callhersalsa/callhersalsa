@@ -1,5 +1,4 @@
-## Hi, peeps! 👋 💫
-
+# Hi, peeps! 👋 💫
 My name is Salsabila Syahirah, and I am a university junior (3rd-year) majoring in information systems.<br><br>🔭 Proudly a full-time freelancer (at least for now).<br>📈 Currently working on an image classifier project for my AWS AI & ML Scholarship program.<br>🌱 Enthusiastically learning data science and machine learning.<br>⚡ Fun fact => Psst ... I don't like rice!
 
 # 💻 Tech Stack:
