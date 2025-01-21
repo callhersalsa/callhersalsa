@@ -13,7 +13,7 @@ My name is Salsabila Syahirah, and I am a university junior (3rd-year) majoring 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=callhersalsa&icon=9&color=10)](https://visitcount.itsvg.in)
+[![Visit Count](https://visitcount.itsvg.in/api?id=callhersalsa&icon=9&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
