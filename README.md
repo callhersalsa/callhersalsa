@@ -3,13 +3,13 @@ My name is Salsabila Syahirah, and I am a university student majoring in informa
 
 # Connect With Me:
 <a href="https://www.linkedin.com/in/salsabilasyahirah/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="website icon" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="website icon" width="40"/>
 </a>
 <a href="https://medium.com/@salsabilasyahirah" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="website icon" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="website icon" width="40"/>
 </a>
 <a href="https://www.kaggle.com/sasyablossom" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="website icon" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="website icon" width="40"/>
 </a>
 
 # 💻 Tech Stack:
