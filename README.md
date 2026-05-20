@@ -20,10 +20,10 @@ Building intelligent systems that bridge the gap between complex AI frameworks a
 <a href="https://linkedin.com/in/salsabilasyahirah" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://www.kaggle.com/callhersalsa" target="_blank">
+<a href="https://www.kaggle.com/sasyablossom" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
-<a href="https://medium.com/@salsyahirah" target="_blank">
+<a href="https://medium.com/@salsabilasyahirah" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
 
