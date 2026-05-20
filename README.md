@@ -1,5 +1,5 @@
 # Hi, peeps! 👋 💫
-My name is Salsabila Syahirah, and I am a university student majoring in information systems.<br><br>🔭 Proudly a full-time freelancer (at least for now).<br>📈 Currently working on an image classifier project for my AWS AI & ML Scholarship program.<br>🌱 Enthusiastically learning data science and machine learning.<br>⚡ Fun fact => Psst ... I don't like rice!
+My name is Syahirah, a final-year student majoring in Information Systems.<br><br>🔭 I'm interested in how and the innovation of AI Agents & Agentic AI can solve business problem. Proudly a full-time freelancer (at least for now).<br>📈 Currently working as a AI Developer and Automation freelance. <br>🌱 Enthusiastically learning data science, machine learning, LLM, AI Engineering, Web3.<br>⚡ Fun fact => Psst ... I don't like rice!
 
 # Connect With Me:
 <a href="https://www.linkedin.com/in/salsabilasyahirah/" target="_blank">
