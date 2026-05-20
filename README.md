@@ -1,19 +1,58 @@
-# Hi, peeps! 👋 💫
-My name is Syahirah, a final-year student majoring in Information Systems.<br><br>🔭 I'm interested in how and the innovation of AI Agents & Agentic AI can solve business problem. Proudly a full-time freelancer (at least for now).<br>📈 Currently working as a AI Developer and Automation freelance. <br>🌱 Enthusiastically learning data science, machine learning, LLM, AI Engineering, Web3.<br>⚡ Fun fact => Psst ... I don't like rice!
+# Hi there, I'm Syahirah! 👋 💫
 
-# Connect With Me:
-<a href="https://www.linkedin.com/in/salsabilasyahirah/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="website icon" width="40"/>
+### 🤖 AI Engineer & Automation Freelancer
+Building intelligent systems that bridge the gap between complex AI frameworks and real-world business solutions. Currently in my final year of Information Systems, combining academic theory with active, full-time client engineering.
+
+---
+
+- 🔭 **Focus Area:** Architecting **AI Agents & Agentic AI workflows** to automate corporate operations and optimize business workflows.
+- 📈 **Current Role:** Operating as an independent **AI Developer & Automation Contractor**, delivering production-grade RAG pipelines and custom LLM integrations.
+- 🌱 **Deepening My Expertise:** Continuously refining my skills in Advanced Data Science, Machine Learning Infrastructure, AI Engineering, and Web3 systems.
+- ⚡ **Fun Fact:** Psst... I’m probably the only developer in Southeast Asia who doesn't like rice! 🌾🚫
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://salsabilasyahirah.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Website-salsabilasyahirah.dev-00A676?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
 </a>
-<a href="https://medium.com/@salsabilasyahirah" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="website icon" width="40"/>
+<a href="https://linkedin.com/in/salsabilasyahirah" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://www.kaggle.com/sasyablossom" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="website icon" width="40"/>
+<a href="https://www.kaggle.com/callhersalsa" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+<a href="https://medium.com/@salsyahirah" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
 
-# 💻 Tech Stack:
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
+
+## 💻 Tech Stack & Tools
+
+### 🤖 AI & Backend Engineering
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 📊 Data Science & Databases
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logicColor=white)
+
+### ☁️ Cloud & Management
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=callhersalsa&theme=rose&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=callhersalsa&theme=rose&hide_border=false)<br/>
